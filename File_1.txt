@@ -1,5 +1,6 @@
 123
 conflict
+no conflict
 456
 
 789
