@@ -1,4 +1,4 @@
-123
+
 conflict
 no conflict
 456
@@ -7,3 +7,4 @@ no conflict
 Add line
 test
 new branch line_update
+new line for gui
